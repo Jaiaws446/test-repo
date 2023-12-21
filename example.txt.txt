@@ -1,3 +1,5 @@
 Hi, I am learning Devops, Scripting and Git
 
 hello i am doing changes
+
+entering email & user name to commit
